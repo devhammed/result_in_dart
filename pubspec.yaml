@@ -1,0 +1,10 @@
+name: dart_result
+description: Dart Result is a Dart package that provides a Result type for modeling success or failure operations.
+version: 1.0.0
+repository: https://github.com/devhammed/dart_result
+
+environment:
+  sdk: ^3.0.5
+
+dev_dependencies:
+  lints: ^2.0.0
