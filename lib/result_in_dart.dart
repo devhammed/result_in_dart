@@ -5,7 +5,7 @@
 /// where [T] is the type of a successful value and [E] is the type of an error.
 ///
 /// Loosely based on https://doc.rust-lang.org/src/core/result.rs.html source code.
-library dart_rs;
+library result_in_dart;
 
 /// Includes all the [Result] classes.
 part 'src/ok.dart';

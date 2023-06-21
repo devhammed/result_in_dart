@@ -1,4 +1,4 @@
-part of dart_rs;
+part of result_in_dart;
 
 /// Default result class.
 class Default {

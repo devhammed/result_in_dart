@@ -1,4 +1,4 @@
-import 'package:dart_rs/dart_rs.dart';
+import 'package:result_in_dart/result_in_dart.dart';
 
 enum Version {
   version1,

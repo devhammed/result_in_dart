@@ -1,4 +1,4 @@
-part of dart_rs;
+part of result_in_dart;
 
 /// [Err] is a type that represents failure and contains a [E] type error value.
 class Err<T, E> extends Result<T, E> {

@@ -1,7 +1,7 @@
-name: dart_rs
-description: dart_rs is a Dart package that provides a Result type for modeling success or failure operations.
+name: result_in_dart
+description: Result in Dart is a Dart package that provides a Result type for modeling success or failure operations.
 version: 1.0.0
-repository: https://github.com/devhammed/dart_rs
+repository: https://github.com/devhammed/result_in_dart
 
 environment:
   sdk: ^3.0.5
