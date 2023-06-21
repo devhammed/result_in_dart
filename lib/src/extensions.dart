@@ -1,4 +1,4 @@
-part of dart_result;
+part of dart_rs;
 
 extension FlattenResult<T, E> on Result<Result<T, E>, E> {
   /// Converts from [Result<Result<T, E>, E>] to [Result<T, E>]

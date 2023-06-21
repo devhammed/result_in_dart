@@ -1,4 +1,4 @@
-part of dart_result;
+part of dart_rs;
 
 /// Error thrown by the runtime system when `unwrap` fails.
 class ResultUnwrapError extends Error {

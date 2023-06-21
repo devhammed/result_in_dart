@@ -1,4 +1,4 @@
-part of dart_result;
+part of dart_rs;
 
 /// [Ok] is a type that represents success and contains a [T] type success
 /// value.
