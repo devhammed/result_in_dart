@@ -1,4 +1,4 @@
-# dart_result
+# result_in_dart
 
 Dart implementation of Rust's `[Result]` type.
 
@@ -9,7 +9,7 @@ where `[T]` is the type of a successful value and `[E]` is the type of an error.
 Loosely based on https://doc.rust-lang.org/src/core/result.rs.html source code.
 
 ```dart
-import 'package:dart_result/dart_result.dart';
+import 'package:result_in_dart/result_in_dart.dart';
 
 enum Version {
   version1,
